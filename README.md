@@ -1,6 +1,6 @@
 # Epilepsy Detection using EEG 🧠
 
-**Medical Research Project**
+**Medical Research Project using machine learning algorithms**
 
 ## Introduction
 Epilepsy is a neurological disorder characterized by sudden and abnormal electrical activities in the brain. It can be detected and monitored using Electroencephalography (EEG), a medical test that measures and records the electrical activity of the brain. During the EEG test, small sensors are attached to the scalp to pick up the electrical signals produced when brain cells send messages to each other.
