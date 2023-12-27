@@ -29,7 +29,7 @@
 ## Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Epilepsy-Detection.git
+git clone https://github.com/jyothishri184/Epilepsy-Detection.git
 
 # Navigate to the project directory
 cd Epilepsy-Detection
