@@ -9,7 +9,6 @@
 🚀Sudden Unexpected Death in Epilepsy (SUDEP) is a critical concern. Studies suggest that each year, there are about 1.16 cases of SUDEP for every 1,000 people with epilepsy. A seizure may lead to pauses in breathing (apnea) or result in a dangerous heart rhythm, potentially leading to cardiac arrest.
 
 ## Objectives
-
 - **Epilepsy Detection:** Develop a system for detecting epilepsy using EEG data.
 - **SUDEP Risk Assessment:** Investigate and assess the risk of Sudden Unexpected Death in Epilepsy (SUDEP) based on EEG signals.
 - **Monitoring and Diagnosis:** Utilize EEG for continuous monitoring and diagnosing abnormal brain activities associated with epilepsy.
